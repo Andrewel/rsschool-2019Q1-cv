@@ -1,14 +1,21 @@
-1. Andrew Vlasov Имя, фамилия (реальные)
-2. +375293144763,+375293623104,andrewelvlasov@gmail.com,Контакты (желательно несколько)
-3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
-Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
-свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
-и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
-4. C/C++,Java,Python(Django,TensorFlow,Keras,OpenCV),Git,HTML,CSS,JavaScript(Vue.js,React.js),
-SQL(MySQL,PostgreSQL),NoSQL(MongoDB,Firebase/Firestore),Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. BSUIR(3 course),Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. B1 Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+1. Andrew Vlasov 
+2. **Telephone number:**+375293144763;+375293623104
+**E-mail:** vlason15@gmail.com;andrewelvlasov@gmail.com
+3. **Summary of Qualifications**
+Novice frontend-developer with technical education. Confident knowledge of HTML, CSS/SCSS, JavaScript, React, Redux, Vue, NoSQL. 
+4. **Technical Skills**
+*Programming languages and technologies:* JavaScript, HTML, CSS/SCSS, C/C++,Java,Python, SQL(MySQL,PostgreSQL),NoSQL(MongoDB,Firebase/Firestore)
+*Programming practices:* Agile, Kanban, Code review
+*Frameworks and Libraries:* React, Redux, Vue, lodash, bootstrap, Django,TensorFlow,Keras,OpenCV
+*Tools:* Git, Webpack, VS Code,  Webstorm, IDEA, PyCharm, Trello
+5. **Code Review**
+https://github.com/Andrewel
+6. **Professional Experience**
+Community Lab, 03.2019 – now
+Position: Frontend-developer
+https://github.com/Andrewel
+7. **Education**
+BSUIR(3 course)
+Udacity,CodeAcademy,Coursera,SoloLearn.
+8. **English**
+Upper-intermediate(B2)
