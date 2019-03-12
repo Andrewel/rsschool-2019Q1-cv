@@ -1,0 +1,9 @@
+html,
+body{
+}
+.cv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1024px;
+}
