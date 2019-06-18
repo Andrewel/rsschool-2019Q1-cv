@@ -34,13 +34,13 @@ section {
   padding: 1em;
 }
 
-header,
-main,
-footer {
+.header,
+.main,
+.footer {
   margin: 0 auto;
 }
 
-header {
+.header {
   padding: 2em;
   text-align: center;
   /*background-image: url('./img/bg.jpg');*/
@@ -49,12 +49,12 @@ header {
   color: white;
 }
 
-header section {
+.header section {
   margin: 0 auto;
   max-width: 640px;
 }
 
-header img {
+.header img {
   border-radius: 50%;
   max-width: 150px;
 }
@@ -110,7 +110,7 @@ h3:hover {
   text-shadow: 1px 1px 1px #333;
 }
 
-main section:not(:last-child) {
+.main section:not(:last-child) {
   border-bottom: 1px solid rgb(0, 0, 0);
 }
 
@@ -184,13 +184,13 @@ ul.job-description li:before {
   color: rgb(0, 0, 0);
 }
 
-footer {
+.footer {
   padding: 1em 1.5em;
   background: rgb(0, 0, 0);
   color: white;
   text-align: right;
 }
 
-footer {
+.footer {
   text-align: center;
 }
