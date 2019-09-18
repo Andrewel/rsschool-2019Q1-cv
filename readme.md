@@ -1,1 +1,1 @@
-https://Andrewel.github.io/cv/cv
+https://Andrewel.github.io/cv
