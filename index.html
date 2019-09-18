@@ -14,23 +14,28 @@
 <body>
     <div id="page">
         <header class="header">
-            <div>
-                <img src="./andrewelphot.jpg" />
+            <div class="div-avatar">
+                <img class="div-avatar__img-photo"
+                    src="https://www.dropbox.com/s/r60jz1h7ys3euyj/andrewelphot.jpg?raw=1" />
             </div>
             <h1>Andrew Vlasov</h1>
-            <section>
+            <section class="header__section-avatar">
                 <p>Novice frontend-developer with technical education. Confident knowledge of HTML, CSS/SCSS,
                     JavaScript,
-                    React, Redux, Vue, NoSQL.</p>
-                <div class="soc">
+                    React, Redux, Vue, Node.js, GIt, SQL, NoSQL.</p>
+                <div class="div-socials">
                     <a href="https://github.com/Andrewel" target="_blank">
                         <i class="fab fa-github-alt"></i>
                     </a>
                     <a href="https://www.linkedin.com/in/Andrewel/" target="_blank">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://www.twitter.com" target="_blank">
-                        <i class="fab fa-twitter"></i>
+                    <a href="https://discord.gg/TxVawyJ" target="_blank">
+                        <i class="fab fa-discord"></i>
+                    </a>
+                    </a>
+                    <a href="https://andrewel.com" target="_blank">
+                        <i class="fab fa-react"></i>
                     </a>
                     <p class="contact-details"><a href="tel:+35283318635">Phone: +375293144763</a> &nbsp; - &nbsp; <a
                             href="mailto:@hexalcorp.com">Email:
@@ -40,12 +45,12 @@
             </section>
         </header>
         <main class="main">
-            <section>
+            <section class="section-skills">
                 <h3>Technical Skills</h3>
-                <div class='skills'>
-                    <div class='column'>
+                <div class='div-skills'>
+                    <div class='div-column'>
                         <h4>Good knowledge</h4>
-                        <ul>
+                        <ul class="div-column__ul">
                             <li>HTML5</li>
                             <li>CSS</li>
                             <li>JavaScript ES5/6</li>
@@ -57,18 +62,18 @@
                             <li>AWS/Azure/Firebase</li>
                         </ul>
                     </div>
-                    <div class='column'>
+                    <div class='div-column'>
                         <h4>Basic knowledge</h4>
-                        <ul>
+                        <ul class="div-column__ul">
                             <li>Angular</li>
                             <li>React</li>
                             <li>NodeJS</li>
                             <li>Python/Django</li>
                         </ul>
                     </div>
-                    <div class='column'>
+                    <div class='div-column'>
                         <h4>Tools & Programming practices</h4>
-                        <ul>
+                        <ul class="div-column__ul">
                             <li>Git, VS Code, Webstorm, IDEA, PyCharm</li>
                             <li>Agile, Kanban</li>
                             <li>Trello, Jira, Bitrix</li>
@@ -76,52 +81,48 @@
                     </div>
                 </div>
             </section>
-            <section>
+            <section class="section-code">
                 <h3>Code Review</h3>
-                <article>
-                    <div class='job-title'>
-                        <br><strong><a href="https://www.linkedin.com/in/Andrewel/" target="_blank">GitHub</a></strong><br>
-                </article>
+                <div class='div-job-title'>
+                    <strong><a href="https://www.linkedin.com/in/Andrewel/" target="_blank">GitHub</a></strong>
+                </div>
             </section>
-            <section>
+            <section class="section-experience">
                 <h3>Professional Experience</h3>
-                <article>
-                    <div class='job-title'>
-                        <span>03.2019 - 06.2019</span> <strong>Community Lab</strong><br> <strong>Position:</strong>
-                        Web
-                        developer
-                    </div>
-                    <div>
-                        <p><strong>Tech stack:</strong> HTML5 / CSS / JavaScript / React/ Angular/ Vue</p>
-                        <ul class="job-description">
-                            <li>Develop web application with Tinder functionality</li>
-                            <li>UI/UX responsive design</li>
-                            <li>Back-end on Firebase</li>
-                        </ul>
-                    </div>
-                </article>
+                <div class='div-job-title'>
+                    <span class="div-job-title__span">02.2019 - 08.2019</span><strong>Community Lab</strong><br>
+                    <strong>Position:</strong>
+                    Web
+                    developer
+                </div><br>
+                <div>
+                    <p><strong>Tech stack:</strong> HTML5 / CSS / JavaScript / React/ Angular/ Vue</p>
+                    <ul class="job-description">
+                        <li>Develop web application with Tinder functionality</li>
+                        <li>UI/UX responsive design</li>
+                        <li>Back-end on Node.js</li>
+                        <li>Firebase Auth & FirestoreDB</li>
+                    </ul>
+                </div>
             </section>
-            <section>
+            <section class="section-education">
                 <h3>Education</h3>
-                <article>
-                    <div class='school'>
-                        <span>2016-2020</span> <strong>BSUIR</strong>
-                    </div>
-                    <div class="descrition">
-                        Bechelor Degree of Programming and Marketing
-                    </div>
-                </article>
+                <div class='div-school'>
+                    <span class="div-school__span">2017-2021</span><strong>BSUIR</strong>
+                </div>
+                <div class="div-description">
+                    Bechelor Degree of Programming and Marketing
+                </div>
             </section>
-            <section>
+            <section class="section-language">
                 <h3>Languages
                 </h3>
-                <article>
-                    <div>
-                        <p><strong>English</strong> - B1/B2</p>
-                        <p><strong>Russian</strong> - Native speaker</p>
-                        <p><strong>Polish</strong> - A2</p>
-                    </div>
-                </article>
+                <div>
+                    <p><strong>English</strong> - B1/B2</p>
+                    <p><strong>Belarusian</strong> - Native speaker</p>
+                    <p><strong>Russian</strong> - Native speaker</p>
+                    <p><strong>Polish</strong> - A2</p>
+                </div>
             </section>
         </main>
         <footer class="footer">
